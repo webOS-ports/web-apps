@@ -13,6 +13,7 @@ The following applications are currently available:
 * Wikipedia
 * GMail
 * Twitter
+* Google Maps
 
 # Copyright and License Information
 
