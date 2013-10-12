@@ -1,0 +1,12 @@
+{
+	"title": "Wikipedia",
+	"id": "org.webosports.app.wikipedia",
+	"version": "0.1.0",
+	"vendor": "WebOS Ports",
+	"vendor_url": "https://github.com/webOS-ports/web-apps",
+	"type": "web",
+	"main": "index.html",
+	"icon": "icon.png",
+	"uiRevision": "2"
+}
+
