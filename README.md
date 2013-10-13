@@ -14,6 +14,7 @@ The following applications are currently available:
 * GMail
 * Twitter
 * Google Maps
+* Youtube
 
 # Copyright and License Information
 
