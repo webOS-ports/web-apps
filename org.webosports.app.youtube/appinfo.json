@@ -5,9 +5,10 @@
 	"vendor": "WebOS Ports",
 	"vendor_url": "https://github.com/webOS-ports/web-apps",
 	"type": "web",
-	"main": "index.html",
+	"main": "https://m.youtube.com/",
 	"icon": "icon.png",
 	"uiRevision": "2",
-	"flickable": true
+	"flickable": true,
+	"internetConnectivityRequired": true
 }
 

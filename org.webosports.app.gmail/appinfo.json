@@ -5,9 +5,15 @@
 	"vendor": "WebOS Ports",
 	"vendor_url": "https://github.com/webOS-ports/web-apps",
 	"type": "web",
-	"main": "index.html",
+	"main": "https://mail.google.com/",
 	"icon": "icon.png",
 	"uiRevision": "2",
-	"flickable": true
+	"flickable": true,
+	"internetConnectivityRequired": true,
+	"urlsAllowed": [
+		"https://mail.google.com/*",
+		"https://accounts.google.*/*",
+		"https://www.google.com/a/*"
+	]
 }
 
