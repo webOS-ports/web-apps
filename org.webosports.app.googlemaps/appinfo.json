@@ -12,6 +12,7 @@
 	"internetConnectivityRequired": true,
 	"urlsAllowed": [
 		"https://maps.google.com/*"
-	]
+	],
+	"userAgent": "Mozilla/5.0 (webOS; Android 4.2) AppleWebKit Mobile Safari"
 }
 

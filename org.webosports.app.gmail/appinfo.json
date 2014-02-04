@@ -14,6 +14,6 @@
 		"https://mail.google.com/*",
 		"https://accounts.google.*/*",
 		"https://www.google.com/a/*"
-	]
+	],
+	"userAgent": "Mozilla/5.0 (webOS; Android 4.2) AppleWebKit Mobile Safari"
 }
-
