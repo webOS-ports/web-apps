@@ -1,7 +1,7 @@
 {
 	"title": "Youtube",
-	"id": "org.webosports.app.youtube",
-	"version": "0.1.0",
+	"id": "com.google.youtube.web",
+	"version": "1.0.0",
 	"vendor": "WebOS Ports",
 	"vendor_url": "https://github.com/webOS-ports/web-apps",
 	"type": "web",

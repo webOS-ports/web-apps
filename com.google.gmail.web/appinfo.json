@@ -1,18 +1,19 @@
 {
-	"title": "Google Maps",
-	"id": "org.webosports.app.googlemaps",
-	"version": "0.1.0",
+	"title": "GMail",
+	"id": "com.google.gmail.web",
+	"version": "1.0.0",
 	"vendor": "WebOS Ports",
 	"vendor_url": "https://github.com/webOS-ports/web-apps",
 	"type": "web",
-	"main": "https://maps.google.com/",
+	"main": "https://mail.google.com/",
 	"icon": "icon.png",
 	"uiRevision": "2",
 	"flickable": true,
 	"internetConnectivityRequired": true,
 	"urlsAllowed": [
-		"https://maps.google.com/*"
+		"https://mail.google.com/*",
+		"https://accounts.google.*/*",
+		"https://www.google.com/a/*"
 	],
 	"userAgent": "Mozilla/5.0 (webOS; Android 4.2) AppleWebKit Mobile Safari"
 }
-
