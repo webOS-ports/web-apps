@@ -1,0 +1,14 @@
+{
+	"title": "Trello",
+	"id": "com.trello.web",
+	"version": "1.0.0",
+	"vendor": "WebOS Ports",
+	"vendor_url": "https://github.com/webOS-ports/web-apps",
+	"type": "web",
+	"main": "https://www.trello.com/",
+	"icon": "icon.png",
+	"uiRevision": "2",
+	"flickable": true,
+	"internetConnectivityRequired": true,
+	"userAgent": "Mozilla/5.0 (webOS; Android 4.2) AppleWebKit Mobile Safari"
+}
