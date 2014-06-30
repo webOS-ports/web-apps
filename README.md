@@ -15,6 +15,8 @@ The following applications are currently available:
 * Twitter
 * Google Maps
 * Youtube
+* Trello
+* PivotCE
 
 # Copyright and License Information
 
